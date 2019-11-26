@@ -10,7 +10,7 @@ It is created mainly with below technologies:
 
 
 ## Deployed Link
-https://sunnytong2019.github.io/prework-about-me/
+https://sunnytong2019.github.io/about-me/
 
 
 ## Motivation
